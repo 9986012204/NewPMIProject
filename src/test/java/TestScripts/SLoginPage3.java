@@ -30,6 +30,7 @@ public class SLoginPage3 extends BaseClass{
 		tp.pausebutton();
 		utils.switchBackToHome(driver);
 		tp.twitterbtn();
+		System.out.println("qwewqrtrt");
 	}
 
 }
